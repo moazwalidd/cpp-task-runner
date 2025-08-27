@@ -12,3 +12,4 @@ int main(){
     cout << "Factorial of " << number << " = " << factorial(number) << endl;
     return 0;
 }
+// trigger CI
